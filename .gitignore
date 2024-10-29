@@ -2,7 +2,7 @@
 .idea/
 # venv
 venv
-venvcpp
+venvvllm
 # python bytecode
 *.py[cod]
 *.DS_Store
