@@ -9,3 +9,4 @@ venvcpp
 # vscode
 .vscode/**/*
 llama.cpp/build
+models/*
